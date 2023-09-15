@@ -5,7 +5,7 @@
 ## Screenshots
 ![alt text](Screenshots/prostream.png)
 
-![alt text](Screenshots/prostream (2).png)
+![alt text](Screenshots/prostream2.png)
 
-![alt text](Screenshots/prostream (3).png)
+![alt text](Screenshots/prostream3.png)
 
