@@ -1,4 +1,4 @@
-# ProStream : A Movie Streaming platform 🎬 built with React.js and Swiper.
+# ProStream : A Movie Streaming platform 🎬 built with HTML, CSS, Javascript, Bootstrap and Swiper.
 ## Demo
 **Experience ProfLink live here.**
 [Live Demo](https://utkarshsinha121.github.io/ProStream/)
